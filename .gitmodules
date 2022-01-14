@@ -1,0 +1,9 @@
+[submodule "whooshy_sound"]
+	path = whooshy_sound
+	url = https://github.com/JordanAceto/whooshy_sound
+[submodule "stereo_whooshy_sound"]
+	path = stereo_whooshy_sound
+	url = https://github.com/JordanAceto/stereo_whooshy_sound
+[submodule "horrible_distortion"]
+	path = horrible_distortion
+	url = https://github.com/JordanAceto/horrible_distortion
