@@ -7,3 +7,6 @@
 [submodule "horrible_distortion"]
 	path = horrible_distortion
 	url = https://github.com/JordanAceto/horrible_distortion
+[submodule "ap_joystick_VCF"]
+	path = ap_joystick_VCF
+	url = https://github.com/JordanAceto/ap_joystick_VCF
