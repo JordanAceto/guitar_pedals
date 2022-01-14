@@ -11,7 +11,7 @@
 │   │       ├── project_name_gerbers.zip
 │   │       └── various gerber files
 │   ├── kicad_[/6]_docs
-│   │   ├── all KiCad project files needed to open the project in KiCad, either version 5 or 6 as indicated by the folder name
+│   │   ├── all KiCad project files needed to open the project in KiCad
 │   │   ├── custom_footprints
 │   │   │   └── any non-standard footprints used by the project
 │   │   └── custom_symbols
