@@ -10,3 +10,6 @@
 [submodule "ap_joystick_VCF"]
 	path = ap_joystick_VCF
 	url = https://github.com/JordanAceto/ap_joystick_VCF
+[submodule "bi_phase_semi_clone"]
+	path = bi_phase_semi_clone
+	url = https://github.com/JordanAceto/bi_phase_semi_clone
