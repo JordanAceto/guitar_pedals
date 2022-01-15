@@ -1,15 +1,20 @@
 [submodule "whooshy_sound"]
 	path = whooshy_sound
 	url = https://github.com/JordanAceto/whooshy_sound
+	branch = main
 [submodule "stereo_whooshy_sound"]
 	path = stereo_whooshy_sound
 	url = https://github.com/JordanAceto/stereo_whooshy_sound
+	branch = master
 [submodule "horrible_distortion"]
 	path = horrible_distortion
 	url = https://github.com/JordanAceto/horrible_distortion
+	branch = master
 [submodule "ap_joystick_VCF"]
 	path = ap_joystick_VCF
 	url = https://github.com/JordanAceto/ap_joystick_VCF
+	branch = master
 [submodule "bi_phase_semi_clone"]
 	path = bi_phase_semi_clone
 	url = https://github.com/JordanAceto/bi_phase_semi_clone
+	branch = master
