@@ -18,3 +18,6 @@
 	path = bi_phase_semi_clone
 	url = https://github.com/JordanAceto/bi_phase_semi_clone
 	branch = master
+[submodule "wiggly_EQ"]
+	path = wiggly_EQ
+	url = https://github.com/JordanAceto/wiggly_EQ
