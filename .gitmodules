@@ -21,3 +21,6 @@
 [submodule "wiggly_EQ"]
 	path = wiggly_EQ
 	url = https://github.com/JordanAceto/wiggly_EQ
+[submodule "Phasor_II"]
+	path = Phasor_II
+	url = https://github.com/JordanAceto/Phasor_II
